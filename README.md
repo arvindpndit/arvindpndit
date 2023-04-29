@@ -1,3 +1,4 @@
+![logo](https://github.com/arvindpndit/arvindpndit/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Arvind Pandit Prajapati</h1>
 <h3 align="center">A passionate frontend developer from India who builds large scalable application from scratch.</h3>
 <img align ="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.VON9gHTrzeHZbHfXsqfzEAHaEq?pid=ImgDet&rs=1">
